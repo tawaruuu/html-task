@@ -1,0 +1,20 @@
+
+table,td,th{
+    border:solid 3px
+}
+td{
+    border:solid 1px
+}
+th{
+    border:solid 1px
+}
+th,td{
+    padding: 15px
+}
+body{
+    background-image:url(img/desktop-wallpaper-majin-buu-buu.jpg) ;
+    background-size: cover;
+}
+
+
+
