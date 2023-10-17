@@ -1,0 +1,15 @@
+fieldset{
+    margin: 20px 0px; 
+}
+input[type]{
+    margin: 5px 0px;
+}
+label{
+    margin: 0px 7px;
+}
+#radio-space{
+    margin-right: 7px;
+}
+#terms-size{
+    font-size: 0.7rem;
+}
