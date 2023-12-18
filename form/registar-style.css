@@ -1,0 +1,34 @@
+table,th,td{
+    border:solid 3px ;
+
+    border-collapse: collapse;
+
+}
+th, td{
+    padding: 15px 5px;
+}
+th{
+    text-align: left;
+    vertical-align: top;
+    background-color: rgb(86, 109, 84);
+    color: white;
+    
+}
+#size{
+    font-size: 10px;
+}
+td{
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(223, 217, 195);
+    border-color: white;
+}
+#required-style{
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin: 0px 0px 10px 6px;
+}
+button{
+    margin-top: 20px;
+}
