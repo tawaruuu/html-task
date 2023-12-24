@@ -1,0 +1,10 @@
+/*記述済みの部分は変更しないでください！*/
+
+@charset "utf-8";
+
+.mark-list {
+    list-style: "★";
+}
+li{
+    margin-top: 20px;
+}

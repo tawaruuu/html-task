@@ -1,0 +1,31 @@
+img{
+    width: 200px;
+    height: 140px;
+   
+}
+div{
+    display: flex;
+}
+table,th,td{
+    border:solid 3px ;
+    border-color: white;
+    border-collapse: collapse;
+    margin: 0 60px 60px 60px;
+}
+th,td{
+    padding: 20px;
+}
+th{
+    width: 100px;
+    background-color: rgb(154, 160, 145);
+}
+li{
+    list-style: none;
+}
+
+td{
+    background-color: rgb(199, 225, 172);
+}
+.heading{
+    margin: 30px 60px;
+}

@@ -1,0 +1,24 @@
+.news{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(91, 49, 4);
+   
+}
+h2{
+    font-size: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-bottom: 3px solid black;
+}
+p{
+    margin: 0 60px;
+    font-size: 20px;
+    line-height: 35px;
+}
+.web-url{
+    color: rgb(26, 91, 0);
+    text-align: right;
+    font-size: 20px;
+    margin-right: 60px;
+    margin-top: 40px;
+}
