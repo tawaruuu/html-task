@@ -1,0 +1,48 @@
+header {
+    width: 960px;
+    height: 100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    background-size: cover;
+  
+   
+  }
+.global-nav {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 500px;
+    list-style: none;
+  }
+.global-nav li {
+    margin: 0 20px;
+    font-size: 25px;
+  }
+.global-nav a {
+  text-decoration: none;
+  color: white;
+  letter-spacing: 2px;
+  margin-top: 45px;
+  text-align: center;
+  font-size: 25px;
+  text-shadow: 0px 0px 4px black;
+
+}
+
+
+.link:hover{
+  text-shadow: 0px 0px 7px rgb(0, 149, 171);
+}
+html{
+  font-family: "Yu Gothic";
+}
+.title{
+  padding-top: 120px;
+  margin-left: 200px;
+  color: white;
+  text-shadow: 0px 0px 4px black;
+  font-size:60px;
+  font-weight: bold;
+  list-style: none;
+}

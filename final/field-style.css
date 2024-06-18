@@ -1,0 +1,35 @@
+.field-link img{
+  width: 150px;
+  height: 80px;
+  box-shadow:  0 10px 25px 0 rgba(0, 0, 0, .5);
+}
+.field-link a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  text-shadow: 0px 0px 4px black;
+}
+.field-link a:hover{
+  text-shadow: 0px 0px 7px rgb(0, 149, 171);
+}
+.field-link{
+  margin-left: 90px;
+}
+.field{
+  display: flex;
+}
+.field-intro{
+  font-size: 25px;
+  text-shadow: 0px 0px 7px rgb(0, 149, 171);
+  color: white;
+  margin-left: 500px;
+  font-weight: bold;
+}
+.field-link li{
+  list-style: none;
+  
+}
+.field-intro h1{
+  font-size: 60px;
+}
